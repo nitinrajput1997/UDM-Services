@@ -59,5 +59,5 @@ It allows the network exposure function to subscribe, unsubscribe and get notifi
 - Nudm_EE_Notify
 	this is used by the UDm to report on events that was previously subscribed by the network exposure function
 
-v) Nudm_ParameterProvision
+v) Nudm_ParameterProvision<br />
 this allows the network function or rather application function via network exposure function for provisioning of an information. Example: expected UE behavior, network configuration parameters.
